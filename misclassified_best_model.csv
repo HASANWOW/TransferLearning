@@ -1,0 +1,9 @@
+test_idx,path,ground_truth,predicted,confidence,prob_true_class,second_choice,hypothesis
+16,data/oxford-iiit-pet/images/Birman_79.jpg,Birman,Ragdoll,0.9679467678070068,0.03172827884554863,Birman,<isi hipotesis Anda>
+197,data/oxford-iiit-pet/images/staffordshire_bull_terrier_45.jpg,Staffordshire Bull Terrier,American Pit Bull Terrier,0.9543615579605103,0.038104768842458725,Staffordshire Bull Terrier,<isi hipotesis Anda>
+146,data/oxford-iiit-pet/images/american_pit_bull_terrier_1.jpg,American Pit Bull Terrier,Staffordshire Bull Terrier,0.8530631065368652,0.1453729122877121,American Pit Bull Terrier,<isi hipotesis Anda>
+162,data/oxford-iiit-pet/images/Abyssinian_207.jpg,Abyssinian,American Pit Bull Terrier,0.8179448246955872,0.1702825129032135,Abyssinian,<isi hipotesis Anda>
+41,data/oxford-iiit-pet/images/basset_hound_126.jpg,Basset Hound,Beagle,0.7999434471130371,0.1870575100183487,Basset Hound,<isi hipotesis Anda>
+241,data/oxford-iiit-pet/images/american_pit_bull_terrier_167.jpg,American Pit Bull Terrier,Staffordshire Bull Terrier,0.6265856027603149,0.3138387203216553,American Pit Bull Terrier,<isi hipotesis Anda>
+71,data/oxford-iiit-pet/images/american_pit_bull_terrier_50.jpg,American Pit Bull Terrier,Staffordshire Bull Terrier,0.6160297989845276,0.38250163197517395,American Pit Bull Terrier,<isi hipotesis Anda>
+216,data/oxford-iiit-pet/images/Birman_72.jpg,Birman,Ragdoll,0.6147661209106445,0.3794868588447571,Birman,<isi hipotesis Anda>
