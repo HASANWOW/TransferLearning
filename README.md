@@ -5,16 +5,15 @@ dan arsitektur efisien EfficientNet-B0 / MobileNetV3-Small (B5) dengan ResNet-18
 
 ## Struktur
 ```
-Tugas05_TransferLearning.ipynb   # notebook utama (sudah dieksekusi, luaran tersimpan)
-Laporan_Tugas05.pdf              # laporan analisis 3–5 halaman
-outputs/
-  metrics_per_epoch.csv          # log mentah per epoch semua eksperimen
-  summary.csv / results.json     # ringkasan metrik akhir + konfigurasi & environment
-  summary_table.md               # tabel konsolidasi (C1)
-  split_manifest.csv             # daftar berkas per split (train/val/test)
-  misclassified_best_model.csv   # sampel misklasifikasi (C3)
-  figures/                       # seluruh grafik
+TransferLearning.ipynb           # notebook utama (sudah dieksekusi, luaran tersimpan)
+Laporan.pdf                      # laporan analisis (5 halaman)
 requirements.txt
+metrics_per_epoch.csv            # log mentah per epoch semua eksperimen
+summary.csv / results.json       # ringkasan metrik akhir + konfigurasi & environment
+summary_table.md                 # tabel konsolidasi (C1)
+split_manifest.csv               # daftar berkas per split (train/val/test)
+misclassified_best_model.csv     # sampel misklasifikasi (C3)
+*.png                            # seluruh grafik (C1–C5)
 ```
 
 ## Menjalankan ulang
